@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Volumes/HD-PCU2/Blepad-Final-master-EDIT-master/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/Volumes/HD-PCU2/Blepad-Final-master-EDIT-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/res/drawable/icon.png"
+    },
+    {
+        "merged": "/Users/conorsouness/Downloads/Blepad-Final-master-EDIT-master/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/Users/conorsouness/Downloads/Blepad-Final-master-EDIT-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/res/drawable/icon.png"
+    },
+    {
+        "merged": "/Volumes/HD-PCU2/Blepad-Final-master-EDIT-master/app/build/intermediates/res/merged/debug/drawable/din5.png",
+        "source": "/Volumes/HD-PCU2/Blepad-Final-master-EDIT-master/app/build/intermediates/exploded-aar/com.noisepages.nettoyeur/midi/1.0.0-rc1/res/drawable/din5.png"
+    },
+    {
+        "merged": "/Users/student/Downloads/Blepad-Final-master/app/build/intermediates/res/merged/debug/drawable/din5.png",
+        "source": "/Users/student/Downloads/Blepad-Final-master/app/build/intermediates/exploded-aar/com.noisepages.nettoyeur/midi/1.0.0-rc1/res/drawable/din5.png"
+    },
+    {
+        "merged": "/Users/conorsouness/Downloads/Blepad-Final-master-EDIT-master/app/build/intermediates/res/merged/debug/drawable/din5.png",
+        "source": "/Users/conorsouness/Downloads/Blepad-Final-master-EDIT-master/app/build/intermediates/exploded-aar/com.noisepages.nettoyeur/midi/1.0.0-rc1/res/drawable/din5.png"
+    },
+    {
+        "merged": "/Users/student/Downloads/Blepad-Final-master/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/Users/student/Downloads/Blepad-Final-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/res/drawable/icon.png"
+    }
+]

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/conorsouness/Downloads/Blepad-Final-master-EDIT-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/conorsouness/Downloads/Blepad-Final-master-EDIT-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_e2967d49a3327dbd7ac8b901b88b56164173f01e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/conorsouness/Downloads/Blepad-Final-master-EDIT-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/conorsouness/Downloads/Blepad-Final-master-EDIT-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_fdb96aacb501c712db4c7722ff4536af3d473167.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/conorsouness/Downloads/Blepad-Final-master-EDIT-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/conorsouness/Downloads/Blepad-Final-master-EDIT-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_4edbd17afc0661c5adc83b971d0f040e17dce043.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/conorsouness/Downloads/Blepad-Final-master-EDIT-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/conorsouness/Downloads/Blepad-Final-master-EDIT-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_22e2c495bfa6eeebb8a9717a49ec6cf357436774.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/conorsouness/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/conorsouness/Downloads/Blepad-Final-master-EDIT-master/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_21274b7570a24f18d94ecb993377e174bd101352.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/conorsouness/Downloads/Blepad-Final-master-EDIT-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="79334435f653b507dd64f120572d49d9620bbf49">
+        <dex dex="/Users/conorsouness/Downloads/Blepad-Final-master-EDIT-master/app/build/intermediates/pre-dexed/debug/org.puredata.android-pd-core-1.0.2_82c931f456594ccf3162b28cda66e7345a41ffc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/conorsouness/Downloads/Blepad-Final-master-EDIT-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/conorsouness/Downloads/Blepad-Final-master-EDIT-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_d99d7bfde452b207b90a1bb873b87ebc4b830aa6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/conorsouness/Downloads/Blepad-Final-master-EDIT-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/conorsouness/Downloads/Blepad-Final-master-EDIT-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_93bd1e1a98c13654f1a5c7daa131aa13acc6d294.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/conorsouness/Downloads/Blepad-Final-master-EDIT-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/conorsouness/Downloads/Blepad-Final-master-EDIT-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_3002cf5a55c6c2b55528018b97a1f6f86594216c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/conorsouness/Downloads/Blepad-Final-master-EDIT-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/conorsouness/Downloads/Blepad-Final-master-EDIT-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_f5b488a4b5d540575a9963656f2daa938e26964e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/conorsouness/Downloads/Blepad-Final-master-EDIT-master/app/build/intermediates/exploded-aar/com.noisepages.nettoyeur/midi/1.0.0-rc1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a35b73ff5c4ab6af57b21c03b9b3aa234d816a7f">
+        <dex dex="/Users/conorsouness/Downloads/Blepad-Final-master-EDIT-master/app/build/intermediates/pre-dexed/debug/com.noisepages.nettoyeur-midi-1.0.0-rc1_c7097e15f6add97de5a192e19e4d2860cacf3953.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/conorsouness/Downloads/Blepad-Final-master-EDIT-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/conorsouness/Downloads/Blepad-Final-master-EDIT-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_7cd8a274768e8da4a58d0b0d901604bb447d311c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/conorsouness/Downloads/Blepad-Final-master-EDIT-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/conorsouness/Downloads/Blepad-Final-master-EDIT-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_ba0e171d0485d076c1dd0da978e56dbdacb846b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/conorsouness/Downloads/Blepad-Final-master-EDIT-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/conorsouness/Downloads/Blepad-Final-master-EDIT-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_2f8f2b36811514d3a056972297742ce9c813ec9a.jar" />
+    </item>
+
+</items>
