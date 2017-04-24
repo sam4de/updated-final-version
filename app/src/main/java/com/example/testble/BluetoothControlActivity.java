@@ -57,7 +57,9 @@ public class BluetoothControlActivity extends Activity {
     public String A1Value;
     private static final int MSG_DATA_CHANGE = 0x11;
 
-    TextView A2Input;
+    TextView A0;
+
+    TextView A1;
 
     public String toSend;
 
@@ -65,10 +67,6 @@ public class BluetoothControlActivity extends Activity {
 
     private PdUiDispatcher dispatcher;
 
-
-    private SeekBar metro;
-
-    float metroValue = 0.0f;
 
 
     private void initPD() throws IOException {
@@ -126,15 +124,12 @@ public class BluetoothControlActivity extends Activity {
 
         Switch onOffSwitch = (Switch) findViewById(R.id.onOffSwitch);//declared the switch here pointing to id onOffSwitch
 
+
         Button cChord = (Button) findViewById(R.id.cChord);
         Button dChord = (Button) findViewById(R.id.dChord);
         Button eChord = (Button) findViewById(R.id.eChord);
         Button fChord = (Button) findViewById(R.id.fChord);
         Button gChord = (Button) findViewById(R.id.gChord);
-        Button aChord = (Button) findViewById(R.id.aChord);
-        Button bChord = (Button) findViewById(R.id.bChord);
-        Button bpm116 = (Button) findViewById(R.id.bpm116);
-        Button bpm58 = (Button) findViewById(R.id.bpm58);
 
 
         cChord.setOnClickListener(new View.OnClickListener() {
@@ -182,61 +177,9 @@ public class BluetoothControlActivity extends Activity {
                                   }
         );
 
-        aChord.setOnClickListener(new View.OnClickListener() {
-                                      @Override
-                                      public void onClick(View view) {
-                                          sendFloatPD("aChord", 1.0f);
-                                      }
 
-                                  }
-        );
 
-        bChord.setOnClickListener(new View.OnClickListener() {
-                                      @Override
-                                      public void onClick(View view) {
-                                          sendFloatPD("bChord", 1.0f);
-                                      }
 
-                                  }
-        );
-
-        bpm116.setOnClickListener(new View.OnClickListener() {
-                                      @Override
-                                      public void onClick(View view) {
-                                          sendFloatPD("bpm116", 1.0f);
-                                      }
-
-                                  }
-        );
-
-        bpm58.setOnClickListener(new View.OnClickListener() {
-                                      @Override
-                                      public void onClick(View view) {
-                                          sendFloatPD("bpm58", 1.0f);
-                                      }
-
-                                  }
-        );
-
-        metro = (SeekBar) findViewById(R.id.metro);
-        metro.setOnSeekBarChangeListener(
-                new SeekBar.OnSeekBarChangeListener() {
-                    @Override
-                    public void onProgressChanged(SeekBar seekBar, int progress,
-                                                  boolean fromUser) {
-                        metroValue = progress * 1.0f;
-                        sendFloatPD("metro", metroValue);
-                    }
-
-                    @Override
-                    public void onStartTrackingTouch(SeekBar seekBar) {
-                    }
-
-                    @Override
-                    public void onStopTrackingTouch(SeekBar seekBar) {
-                    }
-
-                });
 
 
         getActionBar().setTitle(mDeviceName);
@@ -387,12 +330,13 @@ public class BluetoothControlActivity extends Activity {
             if (received.charAt(0) == 'A') {
                 A0Value = received.substring(1);
                 Log.i("A0",A0Value);
-                //A2Input.setText(A2Value);
+                A0.setText(A0Value);
                 sendPatchData("a_input_0", A0Value);
             }
             else if (received.charAt(0) == 'B') {
                 A1Value = received.substring(1);
                 Log.i("A1",A1Value);
+                A1.setText(A1Value);
                 sendPatchData("a_input_1", A1Value);
             }
             else if (received.charAt(0) == 'C') {

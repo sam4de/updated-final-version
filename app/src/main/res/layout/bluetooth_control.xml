@@ -27,42 +27,6 @@
         android:id="@+id/cChord" />
 
     <Button
-        android:text="D"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignTop="@+id/cChord"
-        android:layout_toEndOf="@+id/cChord"
-        android:layout_marginStart="22dp"
-        android:id="@+id/dChord" />
-
-    <SeekBar
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_marginBottom="56dp"
-        android:id="@+id/metro"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentStart="true"
-        android:max="1000" />
-
-    <Button
-        android:text="116"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/bpm116"
-        android:layout_above="@+id/metro"
-        android:layout_toStartOf="@+id/gChord"
-        android:layout_marginBottom="30dp" />
-
-    <Button
-        android:text="58"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignTop="@+id/bpm116"
-        android:layout_alignStart="@+id/aChord"
-        android:id="@+id/bpm58" />
-
-    <Button
         android:text="F"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -80,23 +44,14 @@
         android:layout_alignStart="@+id/dChord" />
 
     <Button
-        android:text="A"
+        android:text="D"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/aChord"
-        android:layout_alignBaseline="@+id/gChord"
-        android:layout_alignBottom="@+id/gChord"
-        android:layout_alignEnd="@+id/onOffSwitch" />
-
-    <Button
-        android:text="B"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/bChord"
-        android:layout_alignBaseline="@+id/aChord"
-        android:layout_alignBottom="@+id/aChord"
-        android:layout_toEndOf="@+id/bpm58"
-        android:layout_marginStart="14dp" />
+        android:id="@+id/dChord"
+        android:layout_alignBaseline="@+id/cChord"
+        android:layout_alignBottom="@+id/cChord"
+        android:layout_toEndOf="@+id/cChord"
+        android:layout_marginStart="27dp" />
 
     <Button
         android:text="E"
@@ -105,6 +60,7 @@
         android:id="@+id/eChord"
         android:layout_alignBaseline="@+id/dChord"
         android:layout_alignBottom="@+id/dChord"
-        android:layout_alignStart="@+id/aChord" />
+        android:layout_toEndOf="@+id/dChord"
+        android:layout_marginStart="34dp" />
 
 </RelativeLayout >
