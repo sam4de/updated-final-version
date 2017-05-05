@@ -3,84 +3,84 @@
 
     <item
         is-multidex="false"
-        jar="/Volumes/HD-PCU2/Blepad-Final-master-EDIT-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jar="/Volumes/HD-PCU2/YEAR 2/Performance Tech/Blepad-Final-master-EDIT-master/app/build/intermediates/exploded-aar/com.noisepages.nettoyeur/midi/1.0.0-rc1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="22.0.1"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/Volumes/HD-PCU2/Blepad-Final-master-EDIT-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_bf40d843a9ebdde64ca8766b41cf0a85596f521e.jar" />
+        sha1="a35b73ff5c4ab6af57b21c03b9b3aa234d816a7f">
+        <dex dex="/Volumes/HD-PCU2/YEAR 2/Performance Tech/Blepad-Final-master-EDIT-master/app/build/intermediates/pre-dexed/debug/com.noisepages.nettoyeur-midi-1.0.0-rc1_4eb4242bf7b585f68a8e0910ecfa9e9ffcd7de01.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Volumes/HD-PCU2/Blepad-Final-master-EDIT-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="22.0.1"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/Volumes/HD-PCU2/Blepad-Final-master-EDIT-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_b8b74069eaea63e17b0e5c8e10629c965cebbc0f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Volumes/HD-PCU2/Blepad-Final-master-EDIT-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="22.0.1"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/Volumes/HD-PCU2/Blepad-Final-master-EDIT-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_b0f71aecebfe74557d260eed2f4a88f06a9a0d36.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Volumes/HD-PCU2/Blepad-Final-master-EDIT-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="22.0.1"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/Volumes/HD-PCU2/Blepad-Final-master-EDIT-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_013b6ba862841ed1e7af1e6401f6f5636f3f7784.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Volumes/HD-PCU2/Blepad-Final-master-EDIT-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="22.0.1"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/Volumes/HD-PCU2/Blepad-Final-master-EDIT-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_947a42c8aa39d7543043d8b1da4800b37de87ae0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Volumes/HD-PCU2/Blepad-Final-master-EDIT-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="22.0.1"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/Volumes/HD-PCU2/Blepad-Final-master-EDIT-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_b239591dd63770b4c6af7943936a60466527bfde.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Volumes/HD-PCU2/Blepad-Final-master-EDIT-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="22.0.1"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/Volumes/HD-PCU2/Blepad-Final-master-EDIT-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_e1e4dc4d62a5c33e2fcf3f46520a561f3c965071.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Volumes/HD-PCU2/Blepad-Final-master-EDIT-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/Volumes/HD-PCU2/YEAR 2/Performance Tech/Blepad-Final-master-EDIT-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="false"
         optimize="true"
         revision="22.0.1"
         sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/Volumes/HD-PCU2/Blepad-Final-master-EDIT-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_4718c3eb3f128c0beb1c8961babcbfca502149a3.jar" />
+        <dex dex="/Volumes/HD-PCU2/YEAR 2/Performance Tech/Blepad-Final-master-EDIT-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_9a980974e4a54e549fe3cdd1a3289e4ff5e790d2.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Volumes/HD-PCU2/Blepad-Final-master-EDIT-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/Volumes/HD-PCU2/YEAR 2/Performance Tech/Blepad-Final-master-EDIT-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Volumes/HD-PCU2/YEAR 2/Performance Tech/Blepad-Final-master-EDIT-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_0f7ac28f40184142ce019053990a18a00009dc3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/HD-PCU2/YEAR 2/Performance Tech/Blepad-Final-master-EDIT-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Volumes/HD-PCU2/YEAR 2/Performance Tech/Blepad-Final-master-EDIT-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_2f9b80cebb1371a798d2607759b005ff1b01eab8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/HD-PCU2/YEAR 2/Performance Tech/Blepad-Final-master-EDIT-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Volumes/HD-PCU2/YEAR 2/Performance Tech/Blepad-Final-master-EDIT-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_0907824e243fa961b42ad05e1158ec0c2fd18fdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/HD-PCU2/YEAR 2/Performance Tech/Blepad-Final-master-EDIT-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Volumes/HD-PCU2/YEAR 2/Performance Tech/Blepad-Final-master-EDIT-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_c343432c222b7d09081b31bb349cd7059c29343d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/HD-PCU2/YEAR 2/Performance Tech/Blepad-Final-master-EDIT-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Volumes/HD-PCU2/YEAR 2/Performance Tech/Blepad-Final-master-EDIT-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_1f76196c9cea4f03c3687c4952452b1d69e26657.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/HD-PCU2/YEAR 2/Performance Tech/Blepad-Final-master-EDIT-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Volumes/HD-PCU2/YEAR 2/Performance Tech/Blepad-Final-master-EDIT-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_667989657b76a6f7d172547ec10dd9b4408417eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/HD-PCU2/YEAR 2/Performance Tech/Blepad-Final-master-EDIT-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="false"
         optimize="true"
         revision="22.0.1"
         sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/Volumes/HD-PCU2/Blepad-Final-master-EDIT-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_604e22903bb041067249dc5d16268296d64a00bb.jar" />
+        <dex dex="/Volumes/HD-PCU2/YEAR 2/Performance Tech/Blepad-Final-master-EDIT-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_6c5214b4a04726b621b5423dd2b49d51157d1248.jar" />
     </item>
     <item
         is-multidex="false"
@@ -89,43 +89,43 @@
         optimize="true"
         revision="22.0.1"
         sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/Volumes/HD-PCU2/Blepad-Final-master-EDIT-master/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_4f328f358ae8ba206b6d8fcde672658c972530f2.jar" />
+        <dex dex="/Volumes/HD-PCU2/YEAR 2/Performance Tech/Blepad-Final-master-EDIT-master/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_4f328f358ae8ba206b6d8fcde672658c972530f2.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Volumes/HD-PCU2/Blepad-Final-master-EDIT-master/app/build/intermediates/exploded-aar/com.noisepages.nettoyeur/midi/1.0.0-rc1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="22.0.1"
-        sha1="a35b73ff5c4ab6af57b21c03b9b3aa234d816a7f">
-        <dex dex="/Volumes/HD-PCU2/Blepad-Final-master-EDIT-master/app/build/intermediates/pre-dexed/debug/com.noisepages.nettoyeur-midi-1.0.0-rc1_6d289ff705c470e7e4fbf092951b408dd7aa661a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Volumes/HD-PCU2/Blepad-Final-master-EDIT-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="22.0.1"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Volumes/HD-PCU2/Blepad-Final-master-EDIT-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_4947e569bd670fe6dd10c5cac0fde9f386489201.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Volumes/HD-PCU2/Blepad-Final-master-EDIT-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="22.0.1"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/Volumes/HD-PCU2/Blepad-Final-master-EDIT-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_e1b6e65489ea725a96290d21da7b6cd1a22d6a64.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Volumes/HD-PCU2/Blepad-Final-master-EDIT-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/jars/classes.jar"
+        jar="/Volumes/HD-PCU2/YEAR 2/Performance Tech/Blepad-Final-master-EDIT-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="22.0.1"
         sha1="79334435f653b507dd64f120572d49d9620bbf49">
-        <dex dex="/Volumes/HD-PCU2/Blepad-Final-master-EDIT-master/app/build/intermediates/pre-dexed/debug/org.puredata.android-pd-core-1.0.2_e8bfbd75a302443291ae6b0f971ed6ede164579f.jar" />
+        <dex dex="/Volumes/HD-PCU2/YEAR 2/Performance Tech/Blepad-Final-master-EDIT-master/app/build/intermediates/pre-dexed/debug/org.puredata.android-pd-core-1.0.2_56a4dd54e0f918c9d2001c26ab063524755de538.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/HD-PCU2/YEAR 2/Performance Tech/Blepad-Final-master-EDIT-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Volumes/HD-PCU2/YEAR 2/Performance Tech/Blepad-Final-master-EDIT-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_8e97582303144284b0f1cb78d915d3eff35da6ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/HD-PCU2/YEAR 2/Performance Tech/Blepad-Final-master-EDIT-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Volumes/HD-PCU2/YEAR 2/Performance Tech/Blepad-Final-master-EDIT-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_f31ab753dc2bec12b09f5e476ce51a9bb7efe445.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/HD-PCU2/YEAR 2/Performance Tech/Blepad-Final-master-EDIT-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Volumes/HD-PCU2/YEAR 2/Performance Tech/Blepad-Final-master-EDIT-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_db9e36124b0882a26a8f8e2fc3a8741aade72c42.jar" />
     </item>
 
 </items>

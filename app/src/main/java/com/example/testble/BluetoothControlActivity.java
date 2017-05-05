@@ -57,10 +57,6 @@ public class BluetoothControlActivity extends Activity {
     public String A1Value;
     private static final int MSG_DATA_CHANGE = 0x11;
 
-    TextView A0;
-
-    TextView A1;
-
     public String toSend;
 
     StringBuilder output = new StringBuilder();
@@ -330,13 +326,11 @@ public class BluetoothControlActivity extends Activity {
             if (received.charAt(0) == 'A') {
                 A0Value = received.substring(1);
                 Log.i("A0",A0Value);
-                A0.setText(A0Value);
                 sendPatchData("a_input_0", A0Value);
             }
             else if (received.charAt(0) == 'B') {
                 A1Value = received.substring(1);
                 Log.i("A1",A1Value);
-                A1.setText(A1Value);
                 sendPatchData("a_input_1", A1Value);
             }
             else if (received.charAt(0) == 'C') {

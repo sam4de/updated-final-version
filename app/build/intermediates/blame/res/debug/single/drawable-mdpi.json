@@ -4,6 +4,14 @@
         "source": "/Users/student/Downloads/Blepad-Final-master/app/src/main/res/drawable-mdpi/hongjia.png"
     },
     {
+        "merged": "/Volumes/HD-PCU2/YEAR 2/Performance Tech/Blepad-Final-master-EDIT-master/app/build/intermediates/res/merged/debug/drawable-mdpi/hongjia.png",
+        "source": "/Volumes/HD-PCU2/YEAR 2/Performance Tech/Blepad-Final-master-EDIT-master/app/src/main/res/drawable-mdpi/hongjia.png"
+    },
+    {
+        "merged": "/Volumes/HD-PCU2/YEAR 2/Performance Tech/Blepad-Final-master-EDIT-master/app/build/intermediates/res/merged/debug/drawable-mdpi/icon.png",
+        "source": "/Volumes/HD-PCU2/YEAR 2/Performance Tech/Blepad-Final-master-EDIT-master/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
         "merged": "/Users/student/Downloads/Blepad-Final-master/app/build/intermediates/res/merged/debug/drawable-mdpi/icon.png",
         "source": "/Users/student/Downloads/Blepad-Final-master/app/src/main/res/drawable-mdpi/icon.png"
     },
@@ -22,6 +30,10 @@
     {
         "merged": "/Volumes/HD-PCU2/Blepad-Final-master-EDIT-master/app/build/intermediates/res/merged/debug/drawable-mdpi/icon.png",
         "source": "/Volumes/HD-PCU2/Blepad-Final-master-EDIT-master/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/Volumes/HD-PCU2/YEAR 2/Performance Tech/Blepad-Final-master-EDIT-master/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Volumes/HD-PCU2/YEAR 2/Performance Tech/Blepad-Final-master-EDIT-master/app/src/main/res/drawable-mdpi/ic_launcher.png"
     },
     {
         "merged": "/Volumes/HD-PCU2/Blepad-Final-master-EDIT-master/app/build/intermediates/res/merged/debug/drawable-mdpi/hongjia.png",

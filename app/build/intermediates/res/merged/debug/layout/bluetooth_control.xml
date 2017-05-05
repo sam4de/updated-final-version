@@ -9,14 +9,6 @@
     tools:context="com.example.testble.MainActivity" >
 
 
-    <Switch
-        android:text="Switch"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/onOffSwitch"
-        android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true" />
-
     <Button
         android:text="C"
         android:layout_width="wrap_content"
@@ -26,32 +18,14 @@
         android:layout_marginTop="48dp"
         android:id="@+id/cChord" />
 
-    <Button
-        android:text="F"
+    <Switch
+        android:text="Switch"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/fChord"
-        android:layout_below="@+id/cChord"
-        android:layout_alignStart="@+id/cChord"
-        android:layout_marginTop="35dp" />
-
-    <Button
-        android:text="G"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/gChord"
-        android:layout_alignBottom="@+id/fChord"
-        android:layout_alignStart="@+id/dChord" />
-
-    <Button
-        android:text="D"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/dChord"
-        android:layout_alignBaseline="@+id/cChord"
-        android:layout_alignBottom="@+id/cChord"
-        android:layout_toEndOf="@+id/cChord"
-        android:layout_marginStart="27dp" />
+        android:id="@+id/onOffSwitch"
+        android:layout_marginTop="86dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
 
     <Button
         android:text="E"
@@ -60,7 +34,34 @@
         android:id="@+id/eChord"
         android:layout_alignBaseline="@+id/dChord"
         android:layout_alignBottom="@+id/dChord"
-        android:layout_toEndOf="@+id/dChord"
-        android:layout_marginStart="34dp" />
+        android:layout_toEndOf="@+id/onOffSwitch" />
+
+    <Button
+        android:text="D"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/dChord"
+        android:layout_alignBaseline="@+id/cChord"
+        android:layout_alignBottom="@+id/cChord"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:text="G"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/gChord"
+        android:layout_alignBaseline="@+id/fChord"
+        android:layout_alignBottom="@+id/fChord"
+        android:layout_toEndOf="@+id/dChord" />
+
+    <Button
+        android:text="F"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/fChord"
+        android:layout_marginTop="70dp"
+        android:layout_marginStart="51dp"
+        android:layout_below="@+id/cChord"
+        android:layout_alignStart="@+id/cChord" />
 
 </RelativeLayout >

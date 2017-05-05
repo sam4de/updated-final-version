@@ -30,13 +30,13 @@ public final class R {
     }
     public static final class id {
         public static final int cChord=0x7f0b0002;
-        public static final int dChord=0x7f0b0005;
+        public static final int dChord=0x7f0b0004;
         public static final int device_address=0x7f0b000a;
         public static final int device_name=0x7f0b0009;
         public static final int device_record=0x7f0b000b;
-        public static final int eChord=0x7f0b0006;
-        public static final int fChord=0x7f0b0003;
-        public static final int gChord=0x7f0b0004;
+        public static final int eChord=0x7f0b0003;
+        public static final int fChord=0x7f0b0006;
+        public static final int gChord=0x7f0b0005;
         public static final int menu_refresh=0x7f0b000c;
         public static final int onOffSwitch=0x7f0b0001;
         public static final int paired_devices=0x7f0b0008;

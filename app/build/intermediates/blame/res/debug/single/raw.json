@@ -4,6 +4,14 @@
         "source": "/Users/conorsouness/Downloads/Blepad-Final-master-EDIT-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/res/raw/silence.wav"
     },
     {
+        "merged": "/Volumes/HD-PCU2/YEAR 2/Performance Tech/Blepad-Final-master-EDIT-master/app/build/intermediates/res/merged/debug/raw/silence.wav",
+        "source": "/Volumes/HD-PCU2/YEAR 2/Performance Tech/Blepad-Final-master-EDIT-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/res/raw/silence.wav"
+    },
+    {
+        "merged": "/Volumes/HD-PCU2/YEAR 2/Performance Tech/Blepad-Final-master-EDIT-master/app/build/intermediates/res/merged/debug/raw/synth.zip",
+        "source": "/Volumes/HD-PCU2/YEAR 2/Performance Tech/Blepad-Final-master-EDIT-master/app/src/main/res/raw/synth.zip"
+    },
+    {
         "merged": "/Users/conorsouness/Downloads/Blepad-Final-master-EDIT-master/app/build/intermediates/res/merged/debug/raw/synth.zip",
         "source": "/Users/conorsouness/Downloads/Blepad-Final-master-EDIT-master/app/src/main/res/raw/synth.zip"
     },
@@ -34,5 +42,9 @@
     {
         "merged": "/Users/conorsouness/Downloads/Blepad-Final-master-EDIT-master/app/build/intermediates/res/merged/debug/raw/extra_abs.zip",
         "source": "/Users/conorsouness/Downloads/Blepad-Final-master-EDIT-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/res/raw/extra_abs.zip"
+    },
+    {
+        "merged": "/Volumes/HD-PCU2/YEAR 2/Performance Tech/Blepad-Final-master-EDIT-master/app/build/intermediates/res/merged/debug/raw/extra_abs.zip",
+        "source": "/Volumes/HD-PCU2/YEAR 2/Performance Tech/Blepad-Final-master-EDIT-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/res/raw/extra_abs.zip"
     }
 ]
